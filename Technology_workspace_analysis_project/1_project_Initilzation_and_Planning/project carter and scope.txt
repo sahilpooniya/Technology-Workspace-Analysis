@@ -1,0 +1,21 @@
+============================================================
+PROJECT CHARTER: Comprehensive Analysis of Technology Sector Workforce
+============================================================
+
+1. PROJECT OBJECTIVES:
+- To analyze recent workforce trends in the global technology sector.
+- To evaluate the impact of AI adoption on hiring, retention, and restructuring.
+- To understand market conditions leading to tech industry layoffs.
+- To study employee sentiment variations across different roles and organizational updates.
+
+2. PROJECT SCOPE:
+- Target Industry: Technology Sector (Software, Hardware, AI, Cloud Services).
+- Data Insights: Layoff counts, AI implementation rates, and employee satisfaction levels.
+- Deliverables: Tableau interactive dashboards, fully formatted executive presentation story, and comprehensive final project report.
+
+3. METHODOLOGY:
+- Step 1: Project Initiation & Setup
+- Step 2: Data Collection & Data Cleaning/Preprocessing
+- Step 3: Exploratory Data Analysis & Visualization via Tableau
+- Step 4: Building Interactive Multi-perspective Dashboards
+- Step 5: Structuring Findings into a Final Executive Story
